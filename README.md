@@ -2,6 +2,28 @@
 
 An API built with Express and MongoDB. Documented with Swagger.
 
+## Steps to run this project locally:
+
+#### Update .env file in root directory of project.
+
+#### Install npm packages:
+
+```
+  npm install
+```
+
+#### Run server: http://localhost:3000/
+
+```
+  npm run start
+```
+
+#### Open following URL. It will open swagger UI to make API request.
+
+```
+  http://localhost:3000/
+```
+
 ## API Usage
 
 #### Get all scorecredits
